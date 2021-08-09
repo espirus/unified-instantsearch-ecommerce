@@ -32,11 +32,11 @@ import { Hit } from './Hit';
 export const inputContainer = '#search-button';
 export const inputContent = 'Search for products';
 export const keyboardShortcuts = ['/'];
-export const appId = 'YRC5H7PYGR';
-export const searchApiKey = '7ad5a6042173392c729040e7d61ca194';
+export const appId = 'latency';
+export const searchApiKey = '6be0576ff61c053d5f9a3225e2a90f76';
 export const hitComponent = Hit;
 export const index = {
-  indexName: 'TEST2',
+  indexName: 'instant_search',
   searchParameters: {
     analytics: true,
     clickAnalytics: true,
