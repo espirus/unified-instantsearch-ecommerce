@@ -32,8 +32,8 @@ import { Hit } from './Hit';
 export const inputContainer = '#search-button';
 export const inputContent = 'Search for products';
 export const keyboardShortcuts = ['/'];
-export const appId = 'latency';
-export const searchApiKey = '6be0576ff61c053d5f9a3225e2a90f76';
+export const appId = '4TCIN5X6OU';
+export const searchApiKey = '42dfb4397a7851bc236bd894e57981f2';
 export const hitComponent = Hit;
 export const index = {
   indexName: 'instant_search',
